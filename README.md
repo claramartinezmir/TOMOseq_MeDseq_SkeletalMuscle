@@ -9,7 +9,7 @@ The respository is organized in different subfolders:
 
 Contains all scripts necessary to map MeD-seq data.
 
-2. Regionalization MeDseq
+2. Regionalization MeD-seq
 
 Contains all scripts necessary to perform differential methylation analysis between central and proximal-distal sections.
 
