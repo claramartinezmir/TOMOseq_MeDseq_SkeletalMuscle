@@ -5,7 +5,7 @@ This repository contains the collection of scripts and python notebooks used to 
 
 The respository is organized in different subfolders:
 
-1. mapping_scripts
+1. Mapping
 
 Contains all scripts necessary to map MeD-seq data.
 
@@ -17,7 +17,7 @@ Contains all scripts necessary to perform differential methylation analysis betw
 
 Contains all scripts necessary to perform differential methylation analysis between male and female sections.
 
-4. linear model
+4. Linear model
 
 Contains all scripts necessary to perform the linear regression model with interaction to investigate the contribution of sex and spatial location to DNA methylation.
 
