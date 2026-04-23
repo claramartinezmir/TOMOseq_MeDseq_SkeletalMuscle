@@ -1,0 +1,1 @@
+Contains all scripts necessary to perfom differential expression analysis between male and female sections. See for mapping mouseGastruloids_scRNAseq_tomoseq and TOMOseq_skeletalMuscle for pre-processing of spatial transcriptomics data.
